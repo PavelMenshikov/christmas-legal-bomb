@@ -1,0 +1,11 @@
+streamlit
+sqlalchemy
+pg8000
+cloud-sql-python-connector
+google-cloud-storage
+google-generativeai
+openai
+anthropic
+python-dotenv
+pypdf
+reportlab

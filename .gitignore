@@ -1,0 +1,9 @@
+# Python garbage
+__pycache__/
+*.pyc
+venv/
+.env
+.streamlit/secrets.toml
+
+# Mac garbage
+.DS_Store
